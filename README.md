@@ -1,6 +1,6 @@
 # SWEETHEART-HAIR-SALON-FINAL-PROJECT
 
-a
+aA
 
 A way of attracting customers, providing information, planning tasks, and building rapport with the general public who stops by the salon.
 
