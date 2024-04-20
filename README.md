@@ -1,5 +1,7 @@
 # SWEETHEART-HAIR-SALON-FINAL-PROJECT
 
+a
+
 A way of attracting customers, providing information, planning tasks, and building rapport with the general public who stops by the salon.
 
 **PROJECT LINK:**  https://ray-b-ouamba.github.io/SWEETHEART-HAIR-SALON--FINAL-PROJECT/
