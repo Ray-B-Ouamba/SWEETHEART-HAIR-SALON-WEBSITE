@@ -1,4 +1,4 @@
-# SWEETHEART-HAIR-SALON-FINAL-PROJECT
+# SWEETHEART-HAIR-SALON-WEBSITE
 
 A way of attracting customers, providing information, planning tasks, and building rapport with the general public who stops by the salon.
 
