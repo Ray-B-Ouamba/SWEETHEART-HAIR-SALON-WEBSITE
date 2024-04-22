@@ -3692,7 +3692,8 @@ input, select, textarea {
 				position: absolute;
 				width: 1.5em;
 			}
-   /**theteam.css design*and contactus.css*/
+  
+	 /* the gray background color will not pop up before the image. Just the image with some stuff*/
 		#banner:after {
 			/*contactus.css*/pointer-events: none; /**theteam.css design**/
 			-moz-transition: opacity 3s ease-in-out;/**theteam.css design**/
@@ -3702,16 +3703,18 @@ input, select, textarea {
 			-moz-transition-delay: 1.25s;
 			-webkit-transition-delay: 1.25s;
 			-ms-transition-delay: 1.25s;
-			/*contactus.css*/transition-delay: 1.25s; /**theteam.css design**/
-			/*contactus.css*/content: ''; /**theteam.css design**/
-			/*contactus.css*/background: #2e3842; /**theteam.css design**/
-			/*contactus.css*/display: block;/**theteam.css design**/
-			/*contactus.css*/width: 100%; /**theteam.css design**/
-			/*contactus.css*/height: 100%; /**theteam.css design**/
-			/*contactus.css*/position: absolute; /**theteam.css design**/
-			/*contactus.css*/left: 0; /**theteam.css design**/
-			/*contactus.css*/top: 0; /**theteam.css design**/
-			/*contactus.css*/opacity: 0; /**theteam.css design**/
+		transition-delay: 1.25s; /**theteam.css design**//*contactus.css*/
+		content: ''; /**theteam.css design**//*contactus.css*/
+
+			/* background: #2e3842; *//* the gray background color will not pop up before the image. Just the image with some stuff*/ /*contactus.css*//**theteam.css design**/
+		
+			display: block;/**theteam.css design**//*contactus.css*//*contactus.css*/
+		width: 100%; /**theteam.css design**//*contactus.css*/
+		height: 100%; /**theteam.css design**//*contactus.css*/
+	  position: absolute; /**theteam.css design**//*contactus.css*/
+		left: 0; /**theteam.css design**//*contactus.css*/
+		top: 0; /**theteam.css design**//*contactus.css*/
+		opacity: 0; /**theteam.css design**//*contactus.css*/
 		}
         /******************* theteam.css design *contactus.css*****/
 		@media screen and (max-width: 736px) {
