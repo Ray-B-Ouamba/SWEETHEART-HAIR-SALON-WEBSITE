@@ -19,6 +19,8 @@ A way of attracting customers, providing information, planning tasks, and buildi
   
 ## SIMILAR PROJECT:
 
+**DAZZLING-GALLERY-COLLECTION-WEBSITE:** https://ray-b-ouamba.github.io/DAZZLING-GALLERY-COLLECTION-WEBSITE/
+
 **COFEE-CULTURE-MENU:** https://ray-b-ouamba.github.io/COFFEE-CULTURE-MENU/
 
 **COMMERCIAL-CALCULATOR:** https://ray-b-ouamba.github.io/COMMERCIAL-CALCULATOR/
