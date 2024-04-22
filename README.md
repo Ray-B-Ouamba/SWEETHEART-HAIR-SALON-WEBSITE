@@ -4,7 +4,7 @@
 
 A way of attracting customers, providing information, planning tasks, and building rapport with the general public who stops by the salon.
 
-**PROJECT LINK:**  https://ray-b-ouamba.github.io/SWEETHEART-HAIR-SALON--FINAL-PROJECT/
+**PROJECT LINK:** https://ray-b-ouamba.github.io/SWEETHEART-HAIR-SALON-WEBSITE/
 
 **TECH USED:** 
 * HTML,
